@@ -1,0 +1,6 @@
+{
+  "id": "velobroadcast",
+  "name": "VeloBroadcast",
+  "version": "1.0",
+  "main": "pl.example.velobroadcast.VeloBroadcast"
+}
