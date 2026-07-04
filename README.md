@@ -7,6 +7,8 @@ This is a broadcast plugin for Minecraft Velocity proxies.
 - `/btitle id text`
 - `/delbar id`
 - `/bbossbar id text`
+- `/bcall text`
+- `/bcall reload`
 
 
 
